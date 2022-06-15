@@ -1,1 +1,10 @@
-
+{
+  "Bug_report" : {
+    "Title": "..." ,
+    "Summary": "..." ,
+    "Precondition": "..." ,
+    "Steps To Reproduce": "..." ,
+    "Expected Result": "..." ,
+    "Actual Result": "..." ,
+    "Attachments": "..." 
+  }
